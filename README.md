@@ -1,3 +1,3 @@
 # rsschool-cv
 
- ## Вообще не врубаюсь что делать - но интересно)
+ ## https://Arteeemius.github.io/rsschool-cv/
