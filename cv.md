@@ -6,7 +6,7 @@
 - Telegram: @artem_yatsik
 
 ## About Me
-I am 36 years old, I work in the entertainment industry. Obviously, programming is the future and I want to be a part of it. I would like to create something interesting and useful for society, be it a game, application or website. My goal is to become a front-end developer.
+I am 37 years old, I work in the entertainment industry. Obviously, programming is the future and I want to be a part of it. I would like to create something interesting and useful for society, be it a game, application or website. My goal is to become a front-end developer.
 
 ## My strengths:
 - team player
@@ -23,21 +23,10 @@ I am 36 years old, I work in the entertainment industry. Obviously, programming 
 
 ## Code Example:
 ```
-const month = 2
- switch (month) {
-   case 12:
-     console.log('Desember')
-     break
-   case 1:
-     console.log('January')
-     break
-   case 2:
-     console.log('Febuary')
-     break
-   default:
-     console.log("It's not a winter month")
-     break
- }
+function multiply(a, b){
+return  a * b
+}
+
 ```
 ## Education
 - HTML (in process…)
